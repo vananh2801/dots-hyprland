@@ -110,6 +110,7 @@ Scope {
     }
 
     function toggleClipboard() {
+	searchWidget.cancelSearch();
         if (GlobalStates.overviewOpen && overviewScope.dontAutoCancelSearch) {
             GlobalStates.overviewOpen = false;
             return;
