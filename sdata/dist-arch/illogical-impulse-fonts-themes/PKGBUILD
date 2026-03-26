@@ -22,4 +22,5 @@ depends=(
   ttf-rubik-vf
   ttf-twemoji
   btop
+  nwg-displays
 )
