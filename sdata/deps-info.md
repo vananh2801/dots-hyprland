@@ -97,6 +97,8 @@ Tips:
   - Not explicitly used, but it may help as fallback for displaying emoji characters.
 - `btop`
   - TUI task manager.
+- `nwg-displays`
+  - Display settings.
 
 ## illogical-impulse-hyprland
 - `hyprland`
@@ -119,8 +121,6 @@ Tips:
   - Basic component.
 - `dolphin`
   - Used in Hyprland and Quickshell config.
-- `systemsettings`
-  - Used in Hyprland `keybinds.conf`.
 
 
 ## illogical-impulse-portal
