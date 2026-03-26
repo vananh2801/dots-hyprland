@@ -95,6 +95,8 @@ Tips:
   - Used in Hyprland, kdeglobals, matugen, qt5ct, qt6ct and Quickshell config.
 - `ttf-twemoji`
   - Not explicitly used, but it may help as fallback for displaying emoji characters.
+- `btop`
+  - TUI task manager.
 
 ## illogical-impulse-hyprland
 - `hyprland`

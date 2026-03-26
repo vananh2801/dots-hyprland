@@ -21,4 +21,5 @@ depends=(
   ttf-readex-pro
   ttf-rubik-vf
   ttf-twemoji
+  btop
 )
